@@ -1,0 +1,27 @@
+{
+  "name": "find-install-path",
+  "version": "1.0.0",
+  "description": "Find the installation location of the application.",
+  "author": {
+    "email": "skai-zhang@hotmail.com",
+    "name": "Skay Zhang",
+    "url": "https://github.com/skay-zhang"
+  },
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skay-zhang/find-install-path.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skay-zhang/find-install-path/issues"
+  },
+  "homepage": "https://github.com/skay-zhang/find-install-path#readme",
+  "dependencies": {
+    "iconv-lite": "^0.6.3"
+  }
+}
