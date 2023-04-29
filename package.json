@@ -1,6 +1,6 @@
 {
   "name": "find-install-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find the installation location of the application.",
   "author": {
     "email": "skai-zhang@hotmail.com",
