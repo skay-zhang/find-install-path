@@ -4,8 +4,8 @@
   "description": "Find the installation location of the application.",
   "author": {
     "email": "skai-zhang@hotmail.com",
-    "name": "Skay Zhang",
-    "url": "https://github.com/skay-zhang"
+    "name": "Skye Zhang",
+    "url": "https://github.com/skye-z"
   },
   "main": "lib/index.js",
   "type": "commonjs",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skay-zhang/find-install-path.git"
+    "url": "git+https://github.com/skye-z/find-install-path.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skay-zhang/find-install-path/issues"
+    "url": "https://github.com/skye-z/find-install-path/issues"
   },
-  "homepage": "https://github.com/skay-zhang/find-install-path#readme",
+  "homepage": "https://github.com/skye-z/find-install-path#readme",
   "dependencies": {
     "iconv-lite": "^0.6.3"
   }

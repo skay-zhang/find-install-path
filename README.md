@@ -1,8 +1,8 @@
 # Find Install Path
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Package](https://github.com/skay-zhang/find-install-path/actions/workflows/publish-npm.yml/badge.svg)](https://github.com/skay-zhang/find-install-path/actions/workflows/publish-npm.yml) 
-[![CodeQL](https://github.com/skay-zhang/find-install-path/workflows/CodeQL/badge.svg)](https://github.com/skay-zhang/find-install-path/security/code-scanning)
+[![Node.js Package](https://github.com/skye-z/find-install-path/actions/workflows/publish-npm.yml/badge.svg)](https://github.com/skye-z/find-install-path/actions/workflows/publish-npm.yml) 
+[![CodeQL](https://github.com/skye-z/find-install-path/workflows/CodeQL/badge.svg)](https://github.com/skye-z/find-install-path/security/code-scanning)
 
 This is a tool to find the installation location of an application
 
